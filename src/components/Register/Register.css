@@ -1,0 +1,10 @@
+.reg-container h1 {
+    text-align: center;
+  }
+  .reg-form {
+    max-width: 350px;
+  }
+  
+  .reg-form-button {
+    width: 100%;
+  }
